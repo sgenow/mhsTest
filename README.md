@@ -1,2 +1,2 @@
 # mhsTest
-learning to use Github
+learning to use Github to add files 
